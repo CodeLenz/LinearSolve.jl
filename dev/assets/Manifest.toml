@@ -104,9 +104,9 @@ version = "1.0.5+0"
 
 [[deps.ConstructionBase]]
 deps = ["LinearAlgebra"]
-git-tree-sha1 = "738fec4d684a9a6ee9598a8bfee305b26831f28c"
+git-tree-sha1 = "fe2838a593b5f776e1597e086dcd47560d94e816"
 uuid = "187b0558-2788-49d3-abe0-74a17ed4e7c9"
-version = "1.5.2"
+version = "1.5.3"
 
     [deps.ConstructionBase.extensions]
     ConstructionBaseIntervalSetsExt = "IntervalSets"
@@ -473,15 +473,15 @@ version = "0.6.39"
 
 [[deps.SciMLBase]]
 deps = ["ADTypes", "ArrayInterface", "CommonSolve", "ConstructionBase", "Distributed", "DocStringExtensions", "EnumX", "FunctionWrappersWrappers", "IteratorInterfaceExtensions", "LinearAlgebra", "Logging", "Markdown", "PrecompileTools", "Preferences", "RecipesBase", "RecursiveArrayTools", "Reexport", "RuntimeGeneratedFunctions", "SciMLOperators", "StaticArraysCore", "Statistics", "SymbolicIndexingInterface", "Tables", "TruncatedStacktraces"]
-git-tree-sha1 = "ddf8d14762bac98d035453b33b9c5952f36c3b79"
+git-tree-sha1 = "af577ca25a8e87c1143fb455770fbb1faba812b2"
 uuid = "0bca4576-84f4-4d90-8ffe-ffa030f20462"
-version = "1.93.2"
+version = "1.93.3"
 
 [[deps.SciMLOperators]]
 deps = ["ArrayInterface", "DocStringExtensions", "Lazy", "LinearAlgebra", "Setfield", "SparseArrays", "StaticArraysCore", "Tricks"]
-git-tree-sha1 = "b1fe33c9984c6789b58419e62e7a2b92f9aa813e"
+git-tree-sha1 = "745755a5b932c9a664d7e9e4beb60c692b211d4b"
 uuid = "c0aeaf25-5076-4817-a8d5-81caf7dfa961"
-version = "0.3.3"
+version = "0.3.5"
 
 [[deps.Serialization]]
 uuid = "9e88b42a-f829-5b0c-bbe9-9e923198166b"
@@ -532,9 +532,9 @@ version = "1.4.0"
     StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
 
 [[deps.StaticArraysCore]]
-git-tree-sha1 = "1d5708d926c76a505052d0d24a846d5da08bc3a4"
+git-tree-sha1 = "36b3d696ce6366023a0ea192b4cd442268995a0d"
 uuid = "1e83bf80-4336-4d27-bf5d-d5a4f845583c"
-version = "1.4.1"
+version = "1.4.2"
 
 [[deps.Statistics]]
 deps = ["LinearAlgebra", "SparseArrays"]
